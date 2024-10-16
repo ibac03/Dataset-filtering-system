@@ -1,2 +1,2 @@
 # Dataset-filtering-system
-A dataset filtering system implemented in C and Python, designed for analyzing and filtering song data efficiently with functionalities like sorting, searching, and memory management.
+This repository contains a dataset filtering system implemented in both C and Python. The system allows users to analyze and filter a song dataset based on specified criteria, offering basic functionalities such as sorting, searching, and dynamically handling linked lists for efficient memory management in C. The Python version offers similar functionality with more dynamic capabilities and easier integration with larger datasets.
